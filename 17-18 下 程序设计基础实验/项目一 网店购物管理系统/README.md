@@ -47,24 +47,24 @@
 
 ### 用户视图
 
-![additemnum](Pics\logindialog.png)
+![additemnum](https://github.com/idealclover/NJU-Homework/raw/master/17-18%20下%20程序设计基础实验/项目一%20网店购物管理系统/Pics/logindialog.png)
 
-![additemnum](Pics\userhasbenused.png)
+![additemnum](https://github.com/idealclover/NJU-Homework/raw/master/17-18%20下%20程序设计基础实验/项目一%20网店购物管理系统/Pics/userhasbenused.png)
 
-![additemnum](Pics\cantregisteradmin.png)
+![additemnum](https://github.com/idealclover/NJU-Homework/raw/master/17-18%20下%20程序设计基础实验/项目一%20网店购物管理系统/Pics/cantregisteradmin.png)
 
-![additemnum](Pics\usermainwindow.png)
+![additemnum](https://github.com/idealclover/NJU-Homework/raw/master/17-18%20下%20程序设计基础实验/项目一%20网店购物管理系统/Pics/usermainwindow.png)
 
-![additemnum](Pics\addtocart.png)
+![additemnum](https://github.com/idealclover/NJU-Homework/raw/master/17-18%20下%20程序设计基础实验/项目一%20网店购物管理系统/Pics/addtocart.png)
 
-![additemnum](Pics\cart.png)
+![additemnum](https://github.com/idealclover/NJU-Homework/raw/master/17-18%20下%20程序设计基础实验/项目一%20网店购物管理系统/Pics/cart.png)
 
 ### 管理员视图
 
-![additemnum](Pics\adminmainwindow.png)
+![additemnum](https://github.com/idealclover/NJU-Homework/raw/master/17-18%20下%20程序设计基础实验/项目一%20网店购物管理系统/Pics/adminmainwindow.png)
 
-![additemnum](Pics\additemnum.png)
+![additemnum](https://github.com/idealclover/NJU-Homework/raw/master/17-18%20下%20程序设计基础实验/项目一%20网店购物管理系统/Pics/additemnum.png)
 
-![additemnum](Pics\logindialog.png)
+![additemnum](https://github.com/idealclover/NJU-Homework/raw/master/17-18%20下%20程序设计基础实验/项目一%20网店购物管理系统/Pics/logindialog.png)
 
-![additemnum](Pics\list.png)
+![additemnum](https://github.com/idealclover/NJU-Homework/raw/master/17-18%20下%20程序设计基础实验/项目一%20网店购物管理系统/Pics/list.png)
