@@ -1,0 +1,16 @@
+﻿F0001	CuiCui	QAQ	5.2	1	clover
+F0000	芒果干	三只松鼠	11.9	118	12
+F0001	酸奶	光明	51.5	12	asdf
+F0002	酸奶	蒙牛	59.4	10	asdf
+F0003	酸奶	伊利	56	15	wer
+F0004	可乐	可口可乐	18.8	24	qwe
+F0006	华夫饼	华美	29.9	12	sdf
+F0001	CuiCui	QAQ	5.2	1	clover
+F0001	CuiCui	QAQ	5.2	1	clover
+F0001	CuiCui	QAQ	5.2	1	clover
+F0001	酸奶	光明	51.5	34	clover
+F0001	酸奶	光明	51.5	12	clover
+F0001	酸奶	光明	51.5	1	clover
+F0002	酸奶	蒙牛	59.4	1	clover
+F0002	酸奶	蒙牛	59.4	12	clover
+F0003	酸奶	伊利	56	4	a
